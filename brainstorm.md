@@ -43,10 +43,12 @@ create or import the customized templates mail and backup page.
 ## Benchmark 
 
 ### Uptrends
+`go forward` : <https://www.uptrends.com>
 - Monitoring
 > Multi Browser Monitoring, Monitoring Checkpoints, Private Checkpoints, Transaction Recorder
 - Alerts
 > Mobile Apps, Integrations, Public Status Pages
 
 ### Uptime Robot
+`go forward` : <https://uptimerobot.com>
 - monitoring, alerting, status pages
