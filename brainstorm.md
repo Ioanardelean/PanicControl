@@ -33,6 +33,20 @@ create or import the customized templates mail and backup page.
 > monitoring chart about the incidents in the last year
 > upload, create a protocole Panic 
 
+## Personas
+
+### Tech Lead
+![](https://github.com/Ioanardelean/PanicControl/blob/master/Panic/persona1.PNG)
+### Programmer
+![](https://github.com/Ioanardelean/PanicControl/blob/master/Panic/persona2.PNG)
+
 ## Benchmark 
-- Uptrends
-- Uptime Robot
+
+### Uptrends
+- Monitoring
+> Multi Browser Monitoring, Monitoring Checkpoints, Private Checkpoints, Transaction Recorder
+- Alerts
+> Mobile Apps, Integrations, Public Status Pages
+
+### Uptime Robot
+- monitoring, alerting, status pages
