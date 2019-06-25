@@ -1,15 +1,15 @@
 # Content and functionalies
 
--[Goals](#Goals)
--[Main features](#Features)
--[Persona](#persona)
+- [Goals](#Goals)
+- [Main features](#Features)
+- [Persona](#persona)
   * [Javascript Programmer](#Programmer)
   * [Tech Leader](#Tech-Lead)
--[Benchmark](#Benchmark)
--[Wireframe](#Wireframe)
--[Zoning](#Zoning)
--[Mockup](#Mockup)
--[User Story](#User-Story)
+- [Benchmark](#Benchmark)
+- [Wireframe](#Wireframe)
+- [Zoning](#Zoning)
+- [Mockup](#Mockup)
+- [User Story](#User-Story)
 
 ## Goals
 
