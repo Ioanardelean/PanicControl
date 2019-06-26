@@ -34,7 +34,36 @@ In case of incident, the comunication plays an important role for the users, ale
 
 ## Personas
 
+An application that helps both: programmers(users of Panic) and the users of their web sites
+
 ### Tech Lead
+tech lead puts emphasis on communication during the incident because such an event can cause large drops in the number of users
 ![](https://github.com/Ioanardelean/PanicControl/blob/master/Resources/persona/persona1.PNG)
-### Programmer
+### Senior Programmer
+Senior programmer wants a powerful and accessible application to monitor your own website
 ![](https://github.com/Ioanardelean/PanicControl/blob/master/Resources/persona/persona2.PNG)
+### Javascript Programmer
+JS programmer wants its application to facilitate incident resolution, time spent on communication can be won for technical solution
+![](https://github.com/Ioanardelean/PanicControl/blob/master/Resources/persona/persona3.PNG)
+### User Of DoItNow website
+The user considers that an incident can cause financial damage and can be avoided with an appropriate communication
+![](https://github.com/Ioanardelean/PanicControl/blob/master/Resources/persona/persona4.PNG)
+
+
+## Features
+
+- Create a backup project with name, description and url 
+> edit, delete 
+- Insert DNS informations
+> edit, delete
+- Insert the email address of watcher(from) to email list or single email.
+> ping the test watcher to 30 seconds or less 
+- Create template email
+> choose, upload, create template
+- Create backup Page
+> choose, upload, create template
+- Displayng monitorig dashboard and Protocol file
+> monitoring chart about the incidents in the last year
+> upload, create a protocole Panic 
+
+
