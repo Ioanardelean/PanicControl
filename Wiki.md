@@ -52,6 +52,8 @@ The user considers that an incident can cause financial damage and can be avoide
 
 ## Features
 
+- Create authentification 
+> log in/out sing in
 - Create a backup project with name, description and url 
 > edit, delete 
 - Insert DNS informations
@@ -60,10 +62,17 @@ The user considers that an incident can cause financial damage and can be avoide
 > ping the test watcher to 30 seconds or less 
 - Create template email
 > choose, upload, create template
+- create a list of principals user 
+> choose, upload, create template
 - Create backup Page
 > choose, upload, create template
 - Displayng monitorig dashboard and Protocol file
 > monitoring chart about the incidents in the last year
-> upload, create a protocole Panic 
+> upload, create a protocole Panic
+- Displayng the list of project on account 
+> avaible and unavaible button
+- Displayng about section
+> contact info
+ 
 
 
