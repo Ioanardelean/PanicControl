@@ -36,9 +36,9 @@ create or import the customized templates mail and backup page.
 ## Personas
 
 ### Tech Lead
-![](https://github.com/Ioanardelean/PanicControl/blob/master/Panic/persona1.PNG)
+![](https://github.com/Ioanardelean/PanicControl/blob/master/Resources/persona/persona1.PNG)
 ### Programmer
-![](https://github.com/Ioanardelean/PanicControl/blob/master/Panic/persona2.PNG)
+![](https://github.com/Ioanardelean/PanicControl/blob/master/Resources/persona/persona2.PNG)
 
 ## Benchmark 
 
