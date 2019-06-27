@@ -16,7 +16,7 @@ In case of incident, the comunication plays an important role for the users, ale
 ### Panic Control
 is more user friendly, much faster, and performant. Panic is more a communication site than monitoring.
 - Monitoring -> Uptime and downtime status 
-- Alerting -> Customized email and Status Page. 
+- Alerting -> Customized email for dev team and customers 
 
 ### Uptrends `go forward` : <https://www.uptrends.com> 
 - Monitoring -> Multi Browser Monitoring
@@ -57,7 +57,7 @@ The user considers that an incident can cause financial damage and can be avoide
 ## Features
 - **Authentification**
 
- Create a account with email addres and passphrase
+ Create a account with email address and passphrase
 - **Monitoring tool**
 
  Create a uptime check for a website with name, description and url
