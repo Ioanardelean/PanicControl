@@ -1,6 +1,6 @@
 # Panic Control
 
-  Panic Control is a backup web application, that tracks the health servers status of a customer website and manages communication during an incident. The main features of Panic Control is monitoring and alerting. 
+  Panic Control is a uptime web application, that tracks the health servers status of a customer website and manages communication during an incident. The main features of Panic Control is monitoring and alerting. 
 In case of incident, the comunication plays an important role for the users, alerts the users with personalized emails and forgets the error page `500`, you can personalize your own status page directly in the application Panic. 
   Before the users notice the downtime, the programmers team must be informed about the incident first, for this the performance of the check health must not be wrong, server can be degraded for a few secondes, Panic watch the test with accuracy avoiding abundance or incoherence of alerts.
 
@@ -11,7 +11,7 @@ In case of incident, the comunication plays an important role for the users, ale
 
   The study of 2 external competition and 1 internal competition about the mains functionalities of monitoring uptime application.
 
-  Intern to Société Générale exist the Control Tower, is the critical backup during the incident, but before call Control Tower, many check health of server is done (each application have un test health of server), if the web site is down you got a email. Panic Control offers much many ways to handels the communication during the downtime, before users the team of programmers is alerted.
+  Intern to Société Générale exist the Control Tower, is the critical step during the incident, but before call Control Tower, many check health of server is done (each application have un test health of server), if the web site is down you got a email. Panic Control offers much many ways to handels the communication during the downtime, before users the team of programmers is alerted.
   The main differences between Panic and two other uptime applications  :
 ### Panic Control
 is more user friendly, much faster, and performant. Panic is more a communication site than monitoring.
@@ -55,28 +55,28 @@ The user considers that an incident can cause financial damage and can be avoide
 
 
 ## Features
+- **Authentification**
 
-- Create authentification 
-> log in/out sing in
-- Create a backup project with name, description and url 
-> edit, delete 
-- Insert DNS informations
-> edit, delete
-- Insert the email address of watcher(from) to email list or single email.
-> ping the test watcher to 30 seconds or less 
-- Create template email
-> choose, upload, create template
-- create a list of principals user 
-> choose, upload, create template
-- Create backup Page
-> choose, upload, create template
-- Displayng monitorig dashboard and Protocol file
-> monitoring chart about the incidents in the last year
-> upload, create a protocole Panic
-- Displayng the list of project on account 
-> avaible and unavaible button
-- Displayng about section
-> contact info
+ Create a account with email addres and passphrase
+- **Monitoring tool**
+
+ Create a uptime check for a website with name, description and url
+- **Participants**
+
+ Insert the email address of watcher(from) to email list. 
+- **Alerting**
+
+ Create alerting email with customed template
+- **Client Notifications**
+
+ Create a list of principals customers 
+- **Monitoring Dashboard**
+
+ Displayng monitorig dashboard with a chart over a year
+- **Monotorized websites**
+
+ Displayng the list of site on account 
+
  
 
 
