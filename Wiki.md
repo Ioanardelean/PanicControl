@@ -42,16 +42,16 @@ An application that helps both: programmers(users of Panic) and the users of the
 
 ### Tech Lead
 tech lead puts emphasis on communication during the incident because such an event can cause large drops in the number of users
-![](https://github.com/Ioanardelean/PanicControl/blob/master/Resources/persona/persona1.PNG)
+![](https://github.com/Ioanardelean/PanicControl/blob/master/Resources/persona/personaHongbo.PNG)
 ### Senior Programmer
 Senior programmer wants a powerful and accessible application to monitor your own website
-![](https://github.com/Ioanardelean/PanicControl/blob/master/Resources/persona/persona2.PNG)
+![](https://github.com/Ioanardelean/PanicControl/blob/master/Resources/persona/personaMohamed.PNG)
 ### Javascript Programmer
 JS programmer wants its application to facilitate incident resolution, time spent on communication can be won for technical solution
-![](https://github.com/Ioanardelean/PanicControl/blob/master/Resources/persona/persona3.PNG)
+![](https://github.com/Ioanardelean/PanicControl/blob/master/Resources/persona/personaSherazad.PNG)
 ### User Of DoItNow website
 The user considers that an incident can cause financial damage and can be avoided with an appropriate communication
-![](https://github.com/Ioanardelean/PanicControl/blob/master/Resources/persona/persona4.PNG)
+![](https://github.com/Ioanardelean/PanicControl/blob/master/Resources/persona/personaBenjie.PNG)
 
 
 ## Features
