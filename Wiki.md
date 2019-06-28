@@ -59,6 +59,7 @@ The user considers that an incident can cause financial damage and can be avoide
 
  Create a account with email address and passphrase
  
+ + register
  + activate / desactivate accounts
  + login / logout
 ### Monitoring tool
