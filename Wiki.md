@@ -58,24 +58,44 @@ The user considers that an incident can cause financial damage and can be avoide
 - **Authentification**
 
  Create a account with email address and passphrase
+ 
+ > activate / desactivate accounts
+ > login / logout
 - **Monitoring tool**
 
  Create a uptime check for a website with name, description and url
 - **Participants**
 
  Insert the email address of watcher(from) to email list. 
+ 
+ > edit watcher and email list
+ > delete items of email list
 - **Alerting**
 
  Create alerting email with customed template
+ 
+ > create template
+ > choose template
+ > import template
 - **Client Notifications**
 
  Create a list of principals customers 
+ 
+ > edit email team and email list
+ > delete items of email list
 - **Monitoring Dashboard**
 
- Displayng monitorig dashboard with a chart over a year
+ Displayng monitorig dashboard
+ 
+ > chart on year 
+ > chart on day
 - **Monotorized websites**
 
- Displayng the list of site on account 
+ Displayng the list of site on account
+ 
+ > availability 
+ > edit
+ > delete
 
  
 
