@@ -55,13 +55,16 @@ The user considers that an incident can cause financial damage and can be avoide
 
 
 ## Features
-### Authentification
-
+### Account creation
  Create a account with email address and passphrase
  
  + register
- + activate / desactivate accounts
- + login / logout
+ + activate account
+ + desactivate account
+
+### Authentification and Authorisation
+ + login / logout as admin
+ + login / ligout as user
 ### Monitoring tool
 
  Create a uptime check for a website with name, description and url
@@ -74,7 +77,7 @@ The user considers that an incident can cause financial damage and can be avoide
 ### Alerting
  Create alerting email with customed template
  + create template
- + choose template
+ + choose template from 3 templates exposed 
  + import template
  ### Client Notifications
 
@@ -82,6 +85,16 @@ The user considers that an incident can cause financial damage and can be avoide
  
  + edit email team and email list
  + delete items of email list
+ 
+ Send automated email the first one and the last email for alerting the customers when website is down and when is up
+ + create template
+ + import template
+ 
+ 
+ Send email every 30 minutes to keep customers informed about the site reshaping process 
+ + alert participants every 30 min for sending email
+ + editable template pop up for sending email with new information about incident
+ 
 ### Monitoring Dashboard
 
  Displayng monitorig dashboard
