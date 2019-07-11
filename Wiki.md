@@ -64,7 +64,7 @@ The user considers that an incident can cause financial damage and can be avoide
 
 ### Authentification and Authorisation
  + login / logout as admin
- + login / ligout as user
+ + login / logout as user
 ### Monitoring tool
 
  Create a uptime check for a website with name, description and url
@@ -86,13 +86,13 @@ The user considers that an incident can cause financial damage and can be avoide
  + edit email team and email list
  + delete items of email list
  
- Send automated email the first one and the last email for alerting the customers when website is down and when is up
+ Send automated emails: the first one and the last email for alerting the customers when website is down and when is up
  + create template
  + import template
  
  
  Send email every 30 minutes to keep customers informed about the site reshaping process 
- + alert participants every 30 min for sending email
+ + alert participants every 30 min for sending email to the customers
  + editable template pop up for sending email with new information about incident
  
 ### Monitoring Dashboard
