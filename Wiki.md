@@ -1,5 +1,17 @@
 # Panic Control
+## Table of content
 
+- Pitch
+- Benchmark
+- Persona
+- Features
+- Wireframes
+- Sitemaps
+- Mockups
+- Prototype
+
+
+## Pitch
   Panic Control is a uptime web application, that tracks the health servers status of a customer website and manages communication during an incident. The main features of Panic Control is monitoring and alerting. 
 In case of incident, the comunication plays an important role for the users, alerts the users with personalized emails and forgets the error page `500`, you can personalize your own status page directly in the application Panic. 
   Before the users notice the downtime, the programmers team must be informed about the incident first, for this the performance of the check health must not be wrong, server can be degraded for a few secondes, Panic watch the test with accuracy avoiding abundance or incoherence of alerts.
