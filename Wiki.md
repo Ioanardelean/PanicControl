@@ -121,5 +121,8 @@ The user considers that an incident can cause financial damage and can be avoide
  + delete
 
  
+## Sitemap
+
+![](https://github.com/Ioanardelean/PanicControl/blob/master/Resources/sitemap/sitemapV1.png)
 
 
