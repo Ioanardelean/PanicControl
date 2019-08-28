@@ -59,7 +59,7 @@ Senior programmer wants a powerful and accessible application to monitor your ow
 ### Javascript Programmer
 JS programmer wants its application to facilitate incident resolution, time spent on communication can be won for technical solution
 ![](https://github.com/Ioanardelean/PanicControl/blob/master/Resources/persona/personaSherazad.PNG)
-### User Of DoItNow website
+### User
 The user considers that an incident can cause financial damage and can be avoided with an appropriate communication
 ![](https://github.com/Ioanardelean/PanicControl/blob/master/Resources/persona/personaBenjie.PNG)
 
