@@ -23,8 +23,6 @@ In case of incident, the comunication plays an important role for the users, ale
 
   The study of 2 external competition and 1 internal competition about the mains functionalities of monitoring uptime application.
 
-  Intern to Société Générale exist the Control Tower, is the critical step during the incident, but before call Control Tower, many check health of server is done (each application have un test health of server), if the web site is down you got a email. Panic Control offers much many ways to handels the communication during the downtime, before users the team of programmers is alerted.
-  The main differences between Panic and two other uptime applications  :
 ### Panic Control
 is more user friendly, much faster, and performant. Panic is more a communication site than monitoring.
 - Monitoring -> Uptime and downtime status 
