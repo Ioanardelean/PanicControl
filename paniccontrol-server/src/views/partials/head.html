@@ -1,0 +1,62 @@
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+<meta name="description" content="" />
+<meta name="author" content="" />
+
+<title>Panic Control</title>
+
+<!-- Custom fonts for this template-->
+<link href="/assets/fonts/all.min.css" rel="stylesheet" type="text/css" />
+<link
+  href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i"
+  rel="stylesheet"
+/>
+<link rel="stylesheet" href="/assets/css/style.css">
+<link href="/assets/webfonts/fa-solid-900.woff2" />
+<!-- Custom styles for this template-->
+<link href="/assets/css/sb-admin-2.min.css" rel="stylesheet" />
+
+<!-- Bootstrap core JavaScript-->
+<script src="/assets/js/jquery.min.js"></script>
+<script src="/assets/js/bootstrap.bundle.min.js"></script>
+
+<!-- Core plugin JavaScript-->
+<script src="/assets/js/jquery.easing.min.js"></script>
+
+<!-- Notification plugin-->
+<script src="/assets/js/bootstrap-notify.js"></script>
+
+<link href="https://gitcdn.github.io/bootstrap-toggle/2.2.2/css/bootstrap-toggle.min.css" rel="stylesheet">
+<script src="https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js"></script>
+<!-- Custom scripts for all pages-->
+<script src="/assets/js/sb-admin-2.min.js"></script>
+<script src="/assets/js/script.js"></script>
+<script type="text/javascript">
+  $(document).ready(function() {
+     <% if( flash && flash.message) { %>
+  $.notify(
+     {
+        message: '<%=flash.message%>'
+     },
+     {
+        type: 'info',
+        timer:400
+     }
+  );
+  <%}%>
+
+  <% if( flash && flash.error) { %>
+  $.notify(
+     {
+        message: '<%=flash.error%>'
+     },
+     {
+        type: 'danger',
+        timer:400
+     }
+  );
+  <%}%>
+
+  });
+</script>

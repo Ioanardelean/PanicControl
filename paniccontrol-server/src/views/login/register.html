@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <% include ../partials/head.html %>
+
+</head>
+
+<body class="bg-gradient-primary">
+
+  <div class="container">
+
+    <div class="card o-hidden border-0 shadow-lg my-5">
+      <div class="card-body p-0">
+        <!-- Nested Row within Card Body -->
+        <div class="row">
+          <div class="col-lg-3 d-none d-lg-block "></div>
+          <div class="col-lg-6">
+            <div class="p-5">
+              <div class="text-center">
+                <h1 class="h4 text-gray-900 mb-4">Create an Account!</h1>
+              </div>
+              <form action="/auth/register", method="POST", class="user">
+                <%- include('../partials/formInput.html', { label: 'Username', name:
+                'username', required: true}) %>
+                <%- include('../partials/formInput.html', { label: 'Email', name:
+                'email', required: true, type:'email'}) %>
+                <%- include('../partials/formInput.html', { label: 'Password', name:
+                'password', required: true, type:'password'}) %>
+                <button type="submit", class="btn btn-primary btn-user btn-block">
+                  Register Account
+                </button>
+              </form>
+              <hr>
+              <div class="text-center">
+                <a class="small" href="forgot-password.html">Forgot Password?</a>
+              </div>
+              <div class="text-center">
+                <a class="small" href="login">Already have an account? Login!</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+</body>
+
+</html>

@@ -1,0 +1,25 @@
+td.column {
+    border-right: 1px solid rgba(189, 195, 199, 0.5); 
+    padding-left: 50px;
+    padding-right: 0px;
+}
+
+.custom-cell {
+    display: flex;
+    height: 100%;
+    align-items: center;
+}
+div.status {
+    height: 10px;
+    width: 10px;
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: 5px;
+    background-color:grey ;
+}
+div.active {
+    background-color: green;
+}
+div.inactiv {
+    background-color: red;
+}

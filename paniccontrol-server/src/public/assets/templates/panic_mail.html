@@ -1,0 +1,37 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <table cellpadding="0" cellspacing="0" border="0" id="backgroundTable">
+<tr>
+    <td align="top" style="padding: 10px">
+<table cellpadding="0" cellspacing="0" border="0" style="background-color: white; padding:10; border:2px solid red" align="center">
+    <tr>
+        <td style="padding: 10px; color: black; font-weight: bold" width="200", align="top">
+            <%=data.ProjectName%> is Down !
+        </td>
+    </tr>
+    <tr>
+        <td style="padding: 10px">
+            Panic Control cannot reach
+            <a href="<%=data.ProjectUrl%>"><%=data.ProjectName%></a><br/>
+            Please do a manual check before you taka any action. <br/>
+        </td>
+    </tr>
+</table>
+<table cellpadding="0"cellspacing="0" border="0" align="center" >
+<tr>
+    <td style="padding: 10px; color: black; font-weight: bold; font-size: 14px">
+        This message was sent automatically by Panic control
+    </td>
+</tr>
+</table>
+    </td>
+</tr>
+    </table>
+</body>
+</html>
